@@ -4,9 +4,9 @@
     "slug": "tinder-clone-ud",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/png-transparent-tinder-logo-computer-icons-tinder-angle-logo-magenta.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/iphonexr_splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
